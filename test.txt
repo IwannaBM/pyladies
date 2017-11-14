@@ -1,1 +1,2 @@
-to 
+to jest plik testowy.
+test 2
